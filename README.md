@@ -1,2 +1,2 @@
-## aim-trainer
+# aim-trainer
 THE AIM TRAINER
