@@ -1,2 +1,2 @@
 # aim-trainer
-THE AIM TRAINER
+[THE AIM TRAINER](https://shouryabatra.github.io/aim-trainer/)
