@@ -92,7 +92,9 @@ function mouseClicked() {
   if (isInside()) {
     circleX = random(0, 400);
     circleY = random(0, 400);
-    score += 1;
+    if (mode == "game") {
+      score = score + 1;
+    }
   }
   if (isInsideRect()) {
     if (mode === "home") {
